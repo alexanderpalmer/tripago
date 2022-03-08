@@ -1,0 +1,28 @@
+{
+    "trips": [
+        {
+            "title": "2 Night Stay in Venice",
+            "price": "CHF 195.00",
+            "id": "1",
+            "loc": "europe"
+        },
+        {
+            "title": "3 Night Stay in Paris",
+            "price": "CHF 295.00",
+            "id": "2",
+            "loc": "europe"
+        },
+        {
+            "title": "4 Night Stay in London",
+            "price": "CHF 345.00",
+            "id": "3",
+            "loc": "europe"
+        },
+        {
+            "title": "3 Night Stay in New York",
+            "price": "CHF 325.00",
+            "id": "4",
+            "loc": "america"
+        }
+    ]
+}
